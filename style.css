@@ -1,0 +1,35 @@
+.top-bar{
+    background-color:#316DC3 ;
+    
+}
+.bg-color{
+    color: white;
+}
+.navcolor{
+    color: black !important;
+}
+a.navhome:link{
+    background-color: #316DC3 !important;
+    border-radius: 2em;
+    
+}
+
+.my-menu .navbar-nav .active a , .my-menu .navbar-nav .active a:hover{
+
+background-color:#316DC3;
+color:white ;
+}
+.my-menu .navbar-nav li a:hover{
+    background-color:#316DC3;
+color:white ;
+}
+.heading{
+text-transform: uppercase;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main3{
+    background-color: #2755E9; 
+    text-align: center;
+   
+}
